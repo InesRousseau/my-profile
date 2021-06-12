@@ -1,0 +1,45 @@
+h1{color:#FFAAA7; font-family: 'RocknRoll One', sans-serif;font-size: 30px}
+p, ul {color:#98ddca; font-family: 'Quicksand', sans-serif; lighter;text-align: justify;font-size: 15px }
+a{color: #D5ECC2; font-family: 'Quicksand', sans-serif; font-weight: bold;text-align: justify;text-decoration: none;font-size: 15px}
+h2{color:#ffd3b4;font-family: 'RocknRoll One', sans-serif; font-weight: bold;text-align: justify; font-size: 20px}
+ul{color:#98ddca; font-family: 'Quicksand', sans-serif; font-weight: lighter;text-align: justify;font-size: 15px }
+body{background-color:yellow;}
+/*Custom design with class*/
+.container {
+	width:700px;
+	margin: 40px auto ;}
+.card-white  {
+	background-color: #3f51b5ed;
+	padding : 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0,1);
+	border-radius: 4px;
+	margin: 20px Opx;
+	text-align : center ;}
+.img-circle {
+border-radius : 50% }
+.btn.blue {
+	background-color: blue;
+	color: white;
+	padding:15px 20px;
+	border-radius: 4px; }
+ 
+.btn.blue : hover {
+	background-color: red;
+	color: white; }
+
+.list-inline {
+list-style : none;
+padding-left : 0px;
+}
+.list-iline li {
+	display:iline;
+	padding:10px ;}
+.list-iline i {
+	font-size: 50px;
+	color: : rgb(230,230,230);}
+.list-iline i: hover{
+	font-size: 50px;
+	color: : black ;}
+/*Design adjustments using id (	1% design remaining)*/
+#introduction p {
+	margin-bottom : 40px;}
